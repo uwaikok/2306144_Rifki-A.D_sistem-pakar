@@ -1,5 +1,5 @@
 # 2306144_Rifki-A.D_sistem-pakar
-SISTEM PAKAR
+
 Sistem pakar adalah suatu program komputer yang dirancang untuk meniru kemampuan seorang pakar manusia dalam menyelesaikan masalah atau mengambil keputusan di suatu bidang tertentu. Sistem ini menggunakan pengetahuan dan aturan-aturan logika untuk menganalisis data dan memberikan solusi atau rekomendasi, layaknya seorang ahli.
 
 Ciri-ciri utama sistem pakar:
